@@ -1,19 +1,110 @@
-<h1 align="center">Hi 👋, I'm Shravana Shinagari</h1>
-<h3 align="center">A passionate frontend developer and Full Stack developer from India</h3>
+# 👋 Hi, I'm Shravana Shinagari
 
-- 🔭 I’m currently working on [Smart Tensile Testing Machine](https://github.com/Shravanashinagari/Smart-Tensile-Testing-Machine)
+### 💻 Aspiring Software Engineer | Java Full Stack Developer
 
-- 🌱 I’m currently learning **Java, Spring boot**
+I am a Computer Science Engineering graduate passionate about building practical software solutions, learning new technologies, and solving problems through code.
 
-- 💬 Ask me about **Full Stack Development**
+- 🔭 Currently working on **[Smart Tensile Testing Machine](https://github.com/Shravanashinagari/Smart-Tensile-Testing-Machine)**
+- 🌱 Learning **Java, Spring Boot, SQL, and REST APIs**
+- 💡 Interested in **Backend Development, Full Stack Development, and Problem Solving**
+- 🧠 Practicing Data Structures and Algorithms on LeetCode
+- 🎯 Goal: Build reliable, scalable, and user-friendly applications
+- 📫 Email: **[shravanashinagari10@gmail.com](mailto:shravanashinagari10@gmail.com)**
 
-- 📫 How to reach me **shravanashinagari10@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/shravana shinagari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravana shinagari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shrav_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrav_10" height="30" width="40" /></a>
+  <a href="https://github.com/Shravanashinagari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/shrav_10/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:shravanashinagari10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML and CSS"/>
+</p>
+
+### Backend, Database and Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,flask,mysql,git,github,vscode,figma,arduino" alt="Spring Boot, Flask, MySQL, Git, GitHub, VS Code, Figma and Arduino"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Smart Tensile Testing Machine Using IoT and ML
+A smart testing system designed to collect material testing data, analyze tensile behavior, and visualize results.
+
+**Technologies:** Python, Flask, ESP32, MySQL, REST APIs, Machine Learning
+
+[🔗 View Repository](https://github.com/Shravanashinagari/Smart-Tensile-Testing-Machine)
+
+### 2. EVision Route — Smart EV Trip Planner
+A smart electric vehicle trip-planning application designed to help users explore routes, charging stations, distance, and weather information.
+
+**Technologies:** HTML, CSS, JavaScript, Python, Flask, APIs, MySQL
+
+[🔗 Explore My GitHub Repositories](https://github.com/Shravanashinagari?tab=repositories)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=Shravanashinagari" alt="GitHub Statistics" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravanashinagari&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravanashinagari&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shravanashinagari/Shravanashinagari/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%"/>
+</p>
+
+---
+
+## ✨ A Little More About Me
+
+- 💻 I enjoy turning ideas into working applications.
+- 📚 I believe consistent practice is the key to improving programming skills.
+- 🧩 I am strengthening my Java fundamentals and problem-solving abilities.
+- 🤝 I am open to learning, collaborating, and contributing to meaningful projects.
+
+---
+
+<p align="center">
+  <i>“Consistency beats intensity. Keep learning, keep building, and keep growing.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
